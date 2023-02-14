@@ -18,7 +18,7 @@ For scrolling on the page, we have used the concept of Mouth Aspect Ratio, which
 
 For moving the mouse cursor across the screen, the user must move the nose out of a reference circle. In whatever direction the user keeps their nose with respect to the centre of the circle, the mouse will move in that direction. Keeping the nose tip in the reference circle will stop the moving cursor. 
 
-The above code was tested and run on Intel® Core™ i5-8250U CPU @ 1.60GHz × 8. All the code was written on gedit file in Ubuntu version 18.04 (Bionic Beaver).
+The above code was tested and run on AMD Ryzen 5 ,16gb ram . All the code was written on Pycharm Professional .
 
 ## REQUIREMENTS
 
